@@ -19,6 +19,7 @@
 Hello, my name is Elena. I’m 25 years old. I was born and raised in Moscow, Russia but currently living in Türkiye.
 
 I've started to study programming this fall as a participant of UpSkill educational program by EPAM Systems.
+
 My goal is to get some great practical skills in Web Development and to find a place where i can improve myself as a future specialist.
 
 ---
