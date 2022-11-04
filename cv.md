@@ -37,6 +37,7 @@ My goal is to get some great practical skills in Web Development and to find a p
 - Russian - native speaker
 - English - C1+
 - Turkish - A1
+- Dutch - A1
 
 ### Code example:
 
